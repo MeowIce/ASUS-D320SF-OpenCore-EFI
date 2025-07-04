@@ -40,6 +40,7 @@ This is an EFI package with everything you need to run macOS perfectly on your A
 # What not
 - [ ] Sleep/Wake
   + Works most of the time, but will fail sometimes (I mean, not very stable).
+  + It could be fixed with an official supported dGPU from AMD.
 - [ ] SD Card reader
   + Unsupported reader vendor.
 
